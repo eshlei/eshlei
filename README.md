@@ -24,5 +24,5 @@ Hi there! My name is Ashley Huang. Finding ways to extract insightful informatio
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
 #### 📫 Let's stay in touch!
-[![General badge](https://img.shields.io/badge/linkedin.com/in/yenhunghuang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/yenhunghuang)
+[![General badge](https://img.shields.io/badge/linkedin.com/in/yenhunghuang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenhunghuang)
 [![General badge](https://img.shields.io/badge/yenhung2@illinois.edu-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:yenhung2@illinois.edu)
