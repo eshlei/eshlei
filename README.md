@@ -4,7 +4,7 @@ Hi there! My name is Ashley Huang. Finding ways to extract insightful informatio
 
 - 👩‍🎓 I'm currently studying **computer science** at the **University of Illinois**
 - 🌱 I’m currently learning **text retrival**
-- 🔨 I'm fields of interest includes **information retrieval**, **scientific computing**, and more!
+- 🔨 My fields of interest include **information retrieval**, **scientific computing**, and more!
 - 🧪 I'm currently involved in **ACM@UIUC** and **HackIllinois**
 
 #### 🛢 What I've worked with
