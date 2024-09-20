@@ -4,8 +4,7 @@ Hi there! My name is Ashley Huang. Finding ways to extract insightful informatio
 
 - 👩‍🎓 I'm currently studying **computer science** at the **University of Illinois**
 - 🌱 I’m currently learning **text retrival**
-- 🔨 My fields of interest include **information retrieval**, **scientific computing**, and more!
-- 🧪 I'm currently involved in **ACM@UIUC** and **HackIllinois**
+- 🔨 My fields of interest include **scientific computing**, **information retrieval**, and more!
 
 #### 🛢 What I've worked with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,9 +17,9 @@ Hi there! My name is Ashley Huang. Finding ways to extract insightful informatio
 ![LangChain](https://img.shields.io/badge/LangChain-%23EE4C2C?style=flat-square&logo=LangChain&logoColor=white)
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=222222)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
 #### 📫 Let's stay in touch!
