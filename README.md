@@ -26,6 +26,6 @@ Hi there! I’m Ashley — a passionate explorer of information in all its forms
 
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=flat)](mailto:yenhung2@illinois.edu) <sup>yenhung2​@illinois.edu</sup>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&style=flat)](linkedin.com/in/yenhunghuang) <sup>linkedin​.com/in/yenhunghuang</sup>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&style=flat)](https://www.linkedin.com/in/yenhunghuang) <sup>linkedin​.com/in/yenhunghuang</sup>
 
-[![eBird](https://img.shields.io/badge/eBird-darkgreen?logo=embarcadero&logoColor=white&style=flat)](ebird.org/profile/NDU3OTcxNg) <sup>ebird​.org/profile/NDU3OTcxNg</sup>
+[![eBird](https://img.shields.io/badge/eBird-darkgreen?logo=embarcadero&logoColor=white&style=flat)](ebird.org/profile/NDU3OTcxNg) <sup>https://www.ebird​.org/profile/NDU3OTcxNg</sup>
