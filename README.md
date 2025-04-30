@@ -23,5 +23,5 @@ Hi there! I’m Ashley — a passionate explorer of information in all its forms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
 #### 📫 Let's stay in touch!
-[![General badge](https://img.shields.io/badge/linkedin.com/in/yenhunghuang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenhunghuang)
-[![General badge](https://img.shields.io/badge/yenhung2@illinois.edu-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:yenhung2@illinois.edu)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yenhunghuang)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)](https://outlook.com)yenhung2@illinois.edu
