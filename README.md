@@ -1,10 +1,10 @@
 #### 👋 Welcome!
 
-Hi there! My name is Ashley Huang. Finding ways to extract insightful information is a big passion of mine. I am experienced in working with large amount of information, including text and images. Here are some facts about me
+Hi there! I’m Ashley — a passionate explorer of information in all its forms. Whether it’s text, audio, or images, I love uncovering insights hidden within large datasets.
 
 - 👩‍🎓 I'm currently studying **computer science** at the **University of Illinois**
-- 🌱 I’m currently learning **text retrival**
-- 🔨 My fields of interest include **scientific computing**, **information retrieval**, and more!
+- 🌱 I’m diving into the world of **audio computing**
+- 🧪 My fields of interest include **scientific computing**, **information retrieval**, and more!
 
 #### 🛢 What I've worked with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
