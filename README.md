@@ -4,9 +4,10 @@ Hi there! I’m Ashley — a passionate explorer of information in all its forms
 
 - 👩‍🎓 I'm currently studying **computer science** at the **University of Illinois**
 - 🌱 I’m diving into the world of **audio computing**
-- 🧪 My fields of interest include **scientific computing**, **information retrieval**, and more!
+- 🧪 My research interests include **bioacoustics**, **scientific computing**, and more!
 
 #### 🛢 What I've worked with
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?&style=flat-square&logo=c&logoColor=white)
@@ -23,5 +24,7 @@ Hi there! I’m Ashley — a passionate explorer of information in all its forms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
 #### 📫 Let's stay in touch!
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yenhunghuang)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)](https://outlook.com)yenhung2@illinois.edu
+
+[![Email](https://skillicons.dev/icons?i=gmail)]() yenhung2@illinois.edu
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yenhunghuang)
