@@ -20,7 +20,7 @@ Hi there! I’m Ashley — a passionate explorer of information in all its forms
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
 #### 📫 Let's stay in touch!
 [![General badge](https://img.shields.io/badge/linkedin.com/in/yenhunghuang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenhunghuang)
